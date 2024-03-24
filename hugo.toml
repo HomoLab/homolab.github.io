@@ -1,0 +1,5 @@
+baseURL = 'https://homo.land/'
+languageCode = 'zh-cn'
+title = 'HomoLab'
+theme = 'paper'
+
