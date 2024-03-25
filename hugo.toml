@@ -1,7 +1,7 @@
 baseURL = 'https://homo.land/'
 languageCode = 'zh-cn'
 title = 'HomoLab'
-theme = 'linen'
+theme = 'light'
 github = 'HomoLab'
 rss = true
 avatar = "https://avatars.githubusercontent.com/u/143146450?s=400&u=06a6f038a84ea0314053533c29081e480bce6d92&v=4"
